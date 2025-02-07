@@ -2,7 +2,7 @@
 
 [![KiCad](https://img.shields.io/badge/KiCad-8.0-blue?logo=kicad&logoColor=white&style=for-the-badge)](https://www.kicad.org/) [![License: CC BY-SA-4.0](https://img.shields.io/badge/License-CC--BY--NC--4.0-green?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-![KiCad](/home/tknika/Documentos/Kicad/Pisu_kontrola/Media/KicadPCB3.png)
+![KiCad Imagen PCB](Media/KicadPCB3.png)
 
 Este es el primer circuito que monta el alumnado de [Don Bosco](https://www.donbosco.eus/elektronika-mantentzen-lana/) en el ciclo de grado superior de Mantenimiento Electrónico. En vez de montar sobre una PCB, el alumnado lo monta sobre una protoboard.
 
@@ -22,7 +22,7 @@ En este reto se busca que alumnado adquiera competencias y conocimientos en:
 
 - Mantenimiento de circuitos con puertas lógicas.
 
-![KiCad](/home/tknika/Documentos/Kicad/Pisu_kontrola/Media/PCBMountTop.jpg)
+![KiCad Imagen PCBMount](Media/PCBMountTop.jpg)
 
 El diseño ha sido realizado en [KiCad](https://www.kicad.org/), un software **open source**. Esto permite que cualquiera pueda replicar el proyecto o modificarlo según sus necesidades, facilitando su adaptación a otros usos educativos o personales.
 
@@ -52,7 +52,7 @@ Se puede mostrar la parte de electrónica analógica del reto. Para ello habría
 
 3. Probar los puntos 1, 2, 3, 4 de la demostración de funcionamiento.
 
-4. ![KiCad](/home/tknika/Documentos/Kicad/Pisu_kontrola/Media/KicadJumper.png)
+4. ![KiCad Imagen Jumper](Media/KicadJumper.png)
 
 ## Puntos a mejorar
 
